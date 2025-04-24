@@ -1,3 +1,0 @@
-# File to information required to generate compile-commands.json
-unreal-path = './example-unreal-directory/'
-unreal-version = '5.4'
