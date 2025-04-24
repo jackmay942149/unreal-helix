@@ -3,6 +3,7 @@ Tool for generating compile_commands.json for your unreal projects. This is necc
 # Build Instructions
 - Clone Repository
 - Run go build . in top directory (requires go)
+
 Prebuilt binaries available ->
 
 # Usage
